@@ -30,9 +30,9 @@ Sou comprometido com boas práticas de código limpo, documentação e colabora�
     </a>
     <a href="https://github.com/Quiluangedacosta12?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://github.com/Quiluangedacosta12color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="" 
+            title="" 
+            src=""
         />
     </a>
 </p>
