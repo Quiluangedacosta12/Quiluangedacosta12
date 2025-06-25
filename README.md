@@ -4,19 +4,19 @@
 
 Sou um programador back-end com sólida experiência no desenvolvimento de sistemas robustos, escaláveis e seguros. Tenho domínio na construção e manutenção de APIs RESTful e integração com serviços externos, além de profundo conhecimento em bancos de dados relacionais e não-relacionais.
 Trabalho com linguagens como Node.js, , PHP (Laravel)eJava (Spring Boot), garantindo desempenho, segurança e eficiência na lógica de negócio. 
-Sou comprometido com boas práticas de código limpo, documentação e colaboração em equipe ágil (Scrum/Kanban), sempre buscando soluções eficazes para os desafios técnicos do dia a dia.  "[Dev em Dev](https://www.instagram.com/quiluande_20/)".
+Sou comprometido com boas práticas de código limpo, documentação e colaboração em equipe ágil (Scrum/Kanban), sempre buscando soluções eficazes para os desafios técnicos do dia a dia.
 
 <p align="left">
     <a href="">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="" 
+            title="" 
             src=""
         />
     </a>
     <a href="">
         <img 
-            alt="youtube views" 
+            alt="" 
             title="" 
             src=""
         />
