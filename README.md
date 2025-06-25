@@ -23,9 +23,9 @@ Sou comprometido com boas práticas de código limpo, documentação e colabora�
     </a> 
     <a href="https://github.com/Quiluangedacosta12ab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Quiluangedacosta12?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="" 
+            title="" 
+            src=""
         />
     </a>
     <a href="https://github.com/Quiluangedacosta12?tab=followers">
